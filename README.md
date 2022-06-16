@@ -3,7 +3,7 @@
 
 ---
 
-![Proje Görseli](/img/proje.jpg)
+![Proje Görseli](/img/proje.png)
 
 
 
